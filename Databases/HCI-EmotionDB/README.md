@@ -344,34 +344,13 @@ This isn't just a database - it's the **emotional nervous system** for a new gen
 - [ ] Emotion visualization dashboard
 - [ ] Cross-cultural emotion mapping
 
-## 📚 Documentation
-
-- [Full Technical Report (PDF)](./docs/Relazione_Completa.pdf)
-- [E-R Diagram](./docs/ER_Diagram.png)
-- [API Documentation](./docs/API.md)
-- [Query Examples](./docs/queries.sql)
-
-## 🤝 Contributing
-
-Interested in emotional AI? We welcome contributions! Please check our [contribution guidelines](CONTRIBUTING.md).
-
-## 📄 License
-
-This project is part of an academic work. See [LICENSE](LICENSE) for details.
-
 ---
-
-### 👨‍💻 Authors
-
-**Pietro Mezzatesta** ([20054585](mailto:pietro.mezzatesta@studenti.unitn.it))  
-**Ossama Boulakhdar** ([20054129](mailto:ossama.boulakhdar@studenti.unitn.it))
 
 ### 🎓 Academic Context
 
 **Course:** Database and Information Systems  
 **Academic Year:** 2024-2025  
-**University:** University of Trento, Italy  
-**Technologies:** PostgreSQL 17.5 | E-R Modeling | 3NF | Plutchik's Emotion Model
+**University:** University of Piemonte Orientale, Italy  
 
 ### ⭐ Star this repo if you believe in emotionally intelligent technology!
 
